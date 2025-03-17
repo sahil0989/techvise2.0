@@ -51,7 +51,7 @@ function Home() {
                 </figure>
 
                 <div className=' flex flex-col lg:-mt-20 items-center lg:w-[50%] text-center lg:text-start px-10 lg:px-16 gap-5'>
-                    <h1 className='font-bold text-[35px] md:text-[45px] text-center lg:text-[65px]'>Limitless learning at your <span className="relative z-40">
+                    <h1 className='font-bold text-[35px] md:text-[45px] text-center lg:text-[65px]'>Limit learning at your <span className="relative z-40">
                         fingertips
                         <span className="absolute lg:top-4 md:top-2 left-0 ml-6 translate-middle -z-10">
                             <svg width="300px" height="62.1px" enableBackground="new 0 0 366 62.1" viewBox="0 0 366 62.1" xmlns="http://www.w3.org/2000/svg">
